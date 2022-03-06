@@ -1,0 +1,32 @@
+.field {
+  width: 80%;
+}
+
+.card {
+  width: 60%;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 0.3rem;
+  box-shadow: 0rem 1.5rem 4rem rgba(0, 0, 0, 0.404);
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.card h1 {
+  text-align: center;
+}
+
+.head {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.card button {
+  margin: 5px;
+}

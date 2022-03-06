@@ -1,0 +1,29 @@
+Angular documenntation page -> https://angular.io/cli
+
+NOTE common angular commands
+
+command to install angular-cli -> npm install -g @angular/cli
+command to know basic angular commands -> ng help
+goto ur directory where u wants to create angular project and hit command to create angular project
+command to create angular project -> ng new myAngularApp('name of project')
+goto ur project directory -> cd myAngularApp
+As angular uses it own server which runs on port 4200 by default, hit command to run that server
+command to run angular server -> ng serve
+command to create component -> ng g component navbar('name of component')
+command to add angular material -> ng add @angular/material
+command to stop ng server -> Ctrl + C
+command to create service -> ng g service email('name of service')
+
+/**
+ *!KeyBoard Shortcuts
+ **shift+alt+up/down ->Duplicate line
+ **ctrl+b ->open/close sidebar
+ **ctrl+P ->command plate
+ **ctrl+x ->Delete line
+ **ctrl+ backspace -> Delete previous word
+ **crtl+f ->find word
+ **crtl+g ->navigate to specific  line
+ **ctrl+j+l -> join line
+ **alt+click -> to select multiple cursors
+ **ctrl+d -> to select multiple cursors of same word
+ */
